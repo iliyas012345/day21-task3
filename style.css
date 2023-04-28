@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    background-color:bisque;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+    
+}
+
+.card{
+    margin: 80px;
+    background-color: slategrey;
+   
+}
+.container-fluid{
+     height: auto;
+    background-image:url("https://4kwallpapers.com/images/wallpapers/fail-but-never-quit-failure-never-give-up-motivational-3840x2160-7693.jpg");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+     
+     
+}
+#quotes{
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black
+}
+.card-header{
+    color:crimson;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+#btn{
+    text-align: center;
+    margin-top: 30px;
+}
